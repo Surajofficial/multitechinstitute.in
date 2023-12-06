@@ -1,0 +1,2 @@
+[02-Nov-2023 04:00:11 America/Chicago] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'multit76757stitu'@'localhost' (using password: YES) in /home2/cloudbik/multitechinstitute.in/admin/conn.php on line 8
+[02-Nov-2023 19:39:53 America/Chicago] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'multit76757stitu'@'localhost' (using password: YES) in /home2/cloudbik/multitechinstitute.in/admin/conn.php on line 8

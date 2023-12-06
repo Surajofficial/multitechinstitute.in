@@ -1,0 +1,5 @@
+<meta name="twitter:card" content="summary">
+<meta name="twitter:site" content="@Multitechdelhi				">
+<meta name="twitter:title" content="Mobile Repairing Course | Mobile Repairing Training Institute">
+<meta name="twitter:description" content="Multitech Institute is the best training institute for Mobile Repairing Course with advance training lab. We also provide training for Laptop, Led TV, CCTV, AC, E Vehicle, Printer and more courses. ">
+<meta name="twitter:image" content="https://www.multitechinstitute.in/assets/media/banner/banner1.jpg">
