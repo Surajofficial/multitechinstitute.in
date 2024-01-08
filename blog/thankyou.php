@@ -18,7 +18,7 @@ $mail->SMTPAuth = true;                               // Enable SMTP authenticat
 
 $mail->Username = 'sendmail@multitechinstitute.in';                 // SMTP username
 
-$mail->Password = 'Ganeshji!@#123';                           // SMTP password
+$mail->Password = '+JkPzgh)=FI?';                           // SMTP password
 
 $mail->SMTPSecure = 'ssl';                            // Enable TLS encryption, `ssl` also accepted
 

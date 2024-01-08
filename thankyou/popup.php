@@ -15,9 +15,10 @@ $mail->Host = 'mail.multitechinstitute.in';  // Specify main and backup SMTP ser
 
 $mail->SMTPAuth = true;                               // Enable SMTP authentication
 
-$mail->Username = 'sendmail@multitechinstitute.in';                 // SMTP username
 
-$mail->Password = '+JkPzgh)=FI?';                           // SMTP password
+$mail->Username = 'send@multitechinstitute.in';                 // SMTP username
+
+$mail->Password = '#7l8@8{~$}Td';                            // SMTP password
 
 $mail->SMTPSecure = 'ssl';                            // Enable TLS encryption, `ssl` also accepted
 
